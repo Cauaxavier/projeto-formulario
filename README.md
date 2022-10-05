@@ -1,2 +1,2 @@
 # projetos
- projetos de desenvolvimento web.
+ Exemplo de formulário responsivo.
